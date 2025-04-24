@@ -1,4 +1,5 @@
 # 👋 Hello there! I'm Daniel — welcome to my profile.
+🧠 Passionate about learning, coding, and solving real-world problems through technology.
 
 ## 💻 Technologies & Tools I've been working with recently as a junior developer and student in Software and Systems Development:
 
@@ -33,8 +34,8 @@
 
 ## 🚀 Areas of Interest
 
-- Backend development with **Node.js**
-- Frontend frameworks like **Vue.js**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ---
 
@@ -44,11 +45,16 @@
 
 ---
 
-## 📫 How to reach me
-
-- 📧 Email: [danielsilva123lucas@gmail.com](mailto:danielsilva123lucas@gmail.com)  
-- 🔗 LinkedIn: [Daniel Lucas](https://www.linkedin.com/in/daniel-lucas-da-silva-21a343345/)
+## 📫 How to reach me:
+<div style="display: inline_block"><br>
+  <a href = "mailto:danielsilva123lucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-lucas-da-silva-21a343345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5566992195799?text=Ol%C3%A1%2C%20vim%20pelo%20seu%20GitHub%20%F0%9F%98%8A" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/danlcs__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danlcs&show_icons=true&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=danlcs&color=blueviolet&style=flat-square)
