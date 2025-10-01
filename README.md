@@ -32,7 +32,7 @@
 
 ## 📌 Projects
 
-- 🚧 **[WikiGP](https://github.com/danlcs/WikiGP)** — Currently working on this platform that documents and showcases the best projects from the Grand Prix Senai de Inovação.
+- 🚧 **[WikiGP](https://github.com/danlcs/WikiGP)** — A platform that documents and showcases the best projects from the Grand Prix Senai de Inovação.
 
 ---
 
